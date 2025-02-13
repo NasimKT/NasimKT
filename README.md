@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Accident Detection app using Flutter<br>👯 I’m looking to collaborate on my current <br>🌱 I’m currently learning Flutter and MERN<br>💬 Ask me about python<br>⚡ Fun fact : I think I am Batman 🦇
+🔭 I’m currently working as Software Engineer at PearlData Direct PVT LTD<br>👯 I’m looking to collaborate on my current <br>💬 Ask me about python<br>⚡ Fun fact : I think I am Batman 🦇
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NasimKT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NasimKT&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
